@@ -26,16 +26,12 @@ export default function Navbar({ toggleMode, mode }) {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/">
-                  About
-                </a>
-              </li>
             </ul>
             <form className="d-flex">
               <div className="form-check form-switch">
                 <input
                   className="form-check-input"
+                  style={{ cursor: "pointer" }}
                   type="checkbox"
                   id="flexSwitchCheckDefault"
                   onClick={toggleMode}
