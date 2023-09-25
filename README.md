@@ -1,4 +1,18 @@
-#Live Preview: https://textutlis-fb8214.netlify.app/
+# Live Preview - https://textutlis-fb8214.netlify.app/
+
+# Feature
+
+- Changing text into uppercase and lowercase.
+- Copy and pasting notes/documents.
+- Clear text feature to clean the text-field.
+- Alert feedback to user on major action.
+- Removes extra spaces between text and words.
+- Preview section to help user see their input texts that makees it easy to read.
+- Shows number of characters, words and average time to read the given text.
+
+# About
+
+This is basic web app created using React and Bootsrap. This website showcases the basic understanding of props, state, components and conditional styling of web app.
 
 # React + Vite
 
